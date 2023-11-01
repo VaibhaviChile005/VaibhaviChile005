@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibhavi Chile
+- 👋 Hi, I’m Vaibhavi Chile.
 - 🎓 Recent Computer application graduate with a passion for creating stunning and user-friendly web experiences.  
 - 🚀 I'm on a journey to master the art of Frontend Development, and I'm excited to contribute to open-source projects and build awesome web applications.
 - 👀 I’m interested in learning and exploring new programming language and upcomming technologies.
